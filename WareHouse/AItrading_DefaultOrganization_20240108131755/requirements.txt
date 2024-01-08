@@ -1,0 +1,3 @@
+According to the codes and file format listed above, write a requirements.txt file to specify the dependencies or packages required for the project to run properly.
+
+Programmer: requirements.txt:

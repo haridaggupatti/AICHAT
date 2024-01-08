@@ -238,3 +238,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## 📬 Contact
 
 If you have any questions, feedback, or would like to get in touch, please feel free to reach out to us via email at [chatdev.openbmb@outlook.com](mailto:chatdev.openbmb@outlook.com)
+# AICHAT
